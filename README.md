@@ -1,60 +1,39 @@
-# Hi 👋 I'm Jude P T
+# Hi 👋, I'm Jude P T
 
-## Linux System Administrator
+## Linux System Administrator | DevOps & Cloud Enthusiast
 
-### DevOps • Cloud • Automation
+I'm a System Administrator with experience in Windows environments who is transitioning into Linux Administration, Cloud Computing, and DevOps.
 
-Learning every day. Building reliable infrastructure.
+I'm passionate about building reliable infrastructure, automating repetitive tasks, and continuously improving my technical skills through hands-on projects.
+
+> **Learning every day. Building solutions that last.**
+---
+
+## 👨‍💻 About Me
+
+- 💼 System Administrator
+- 🐧 Learning Linux Administration
+- ☸️ Learning Kubernetes
+- 🐳 Exploring Docker
+- ☁️ Building AWS projects
+- 🏗️ Learning Terraform
+- 📍 Kerala, India
 
 ---
 
-## 👨‍💻 Who I Am
+## ⚙️ Tech Stack
 
-I'm a System Administrator with experience managing Windows environments.
-
-I'm currently transitioning into Linux Administration, Cloud Computing and DevOps by building real-world infrastructure projects.
-
-I enjoy solving problems through automation, scripting and infrastructure design.
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,kubernetes,terraform,aws,azure,bash,git,github,vscode"/>
+</p>
 
 ---
 
-## 📚 Currently Learning
+## 📊 GitHub Statistics
 
-- Linux Administration
-- Docker
-- Kubernetes
-- Terraform
-- AWS
-- GitHub Actions
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Im-Jude&show_icons=true)
 
----
-
-## 🎯 Mission
-
-To become a Linux System Administrator and DevOps Engineer by mastering Linux, Cloud Infrastructure, Kubernetes and Automation.
-
-## 🛠️ Tech Stack
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Jude&layout=compact)
 
 ---
 
