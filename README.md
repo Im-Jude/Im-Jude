@@ -48,21 +48,6 @@ To become a Linux System Administrator and DevOps Engineer by mastering Linux, C
 
 ---
 
-## 📂 Featured Projects
-
-🚧 Coming Soon...
-
-- Linux Administration Labs
-- Bash Automation Scripts
-- Docker Projects
-- Kubernetes Labs
-- Terraform AWS Infrastructure
-- Monitoring Stack
-- GitHub Actions CI/CD
-- Web Hosting Labs
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
@@ -82,7 +67,7 @@ To become a Linux System Administrator / DevOps Engineer by building production-
 ## 📫 Connect With Me
 
 - LinkedIn: YOUR_LINKEDIN_URL
-- Email: YOUR_EMAIL
+- Email: judeofficial001@gmail.com
 
 ---
 
