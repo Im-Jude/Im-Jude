@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jude P T
+# I'm Jude P T
 
 ## Linux System Administrator | DevOps & Cloud Enthusiast
 
