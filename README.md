@@ -7,6 +7,15 @@
 Learning every day. Building reliable infrastructure.
 
 ---
+---
+
+## 👨‍💻 Who I Am
+
+I'm a System Administrator with experience managing Windows environments.
+
+I'm currently transitioning into Linux Administration, Cloud Computing and DevOps by building real-world infrastructure projects.
+
+I enjoy solving problems through automation, scripting and infrastructure design.
 
 ## 🚀 Current Focus
 
