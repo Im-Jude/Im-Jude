@@ -16,17 +16,22 @@ I'm currently transitioning into Linux Administration, Cloud Computing and DevOp
 
 I enjoy solving problems through automation, scripting and infrastructure design.
 
-## 🚀 Current Focus
+---
 
-- 🐧 Linux Administration
-- 🐳 Docker
-- ☸️ Kubernetes
-- ☁️ AWS Cloud
-- 🏗️ Terraform
-- 🔄 GitHub Actions
-- 📜 Bash Scripting
+## 📚 Currently Learning
+
+- Linux Administration
+- Docker
+- Kubernetes
+- Terraform
+- AWS
+- GitHub Actions
 
 ---
+
+## 🎯 Mission
+
+To become a Linux System Administrator and DevOps Engineer by mastering Linux, Cloud Infrastructure, Kubernetes and Automation.
 
 ## 🛠️ Tech Stack
 
