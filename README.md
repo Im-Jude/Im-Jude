@@ -1,8 +1,10 @@
-# Hi 👋, I'm Jude P T
+# Hi 👋 I'm Jude P T
 
-## Linux System Administrator | DevOps & Cloud Enthusiast
+## Linux System Administrator
 
-I'm a System Administrator transitioning from Windows Administration to Linux, Cloud and DevOps. My GitHub showcases hands-on labs, automation scripts, and real-world infrastructure projects.
+### DevOps • Cloud • Automation
+
+Learning every day. Building reliable infrastructure.
 
 ---
 
