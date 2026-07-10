@@ -1,9 +1,10 @@
-Jude P T
-Linux System Administrator | DevOps & Cloud Enthusiast
+# Jude P T
 
-I'm a System Administrator with experience in Windows environments who is transitioning into Linux Administration, Cloud Computing, and DevOps.
+### Linux System Administrator | DevOps & Cloud Enthusiast
 
-I'm passionate about building reliable infrastructure, automating repetitive tasks, and continuously improving my technical skills through hands-on projects.
+I'm a System Administrator with experience managing Windows environments and currently expanding my expertise in Linux Administration, Cloud Computing, and DevOps.
+
+I enjoy building reliable infrastructure, automating repetitive tasks, and documenting hands-on projects that solve real-world operational challenges.
 
 > **Learning every day. Building solutions that last.**
 ---
