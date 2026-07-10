@@ -1,6 +1,5 @@
-# I'm Jude P T
-
-## Linux System Administrator | DevOps & Cloud Enthusiast
+Jude P T
+Linux System Administrator | DevOps & Cloud Enthusiast
 
 I'm a System Administrator with experience in Windows environments who is transitioning into Linux Administration, Cloud Computing, and DevOps.
 
