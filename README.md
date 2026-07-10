@@ -7,7 +7,6 @@
 Learning every day. Building reliable infrastructure.
 
 ---
----
 
 ## 👨‍💻 Who I Am
 
